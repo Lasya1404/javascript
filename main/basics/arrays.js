@@ -1,4 +1,4 @@
-        let names = ["lasya" ," lavanya", "bhumika" ,"pravallika", "swetha"];
+        let names = ["lasya" ," lavanya", "bhumika" ,"pravallika", "swetha" , "sree"];
          let names2 = ["karthik" , "manesh"];
 
         //  names.push(names2);
